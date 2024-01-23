@@ -8,10 +8,10 @@ JavaScript para a lógica de programação e interações;
 Clique em duas cartas, você deve encontrar o par da primeira carta selecionada<br>
 Ao encontrar todos os pares, você vence o jogo e poderá reiniciar clicando no botão de "RESET GAME".
 
-<!-- <h4>Ou acesse:</h4>
-<a href=""></a> -->
-
-O jogo ainda é muito básico. Quando adquirir mais conhecimento, provavelmente irei melhorar e adicionar mais funções.
+<h4>Ou acesse:</h4>
+<a href="https://llercio.github.io/Jogo-da-memoria-com-Emojis/">Jogo da memória com Emojis</a>
+<br><br>
+<h3></h3>O jogo ainda é muito básico. Quando adquirir mais conhecimento, provavelmente irei melhorar e adicionar mais funções.</h3>
 
 <br>
 
